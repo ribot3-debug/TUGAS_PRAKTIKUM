@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    double angka;     // untuk nilai angka siswa
-    char nilai;       // untuk grade huruf siswa
+    double angka;     
+    char nilai;       
     string keterangan;
 
     cout << "Masukkan nilai siswa: ";
@@ -31,3 +31,4 @@ int main() {
 
     return 0;
 }
+
