@@ -26,9 +26,10 @@ int main() {
         keterangan = "Tidak Lulus";
     }
 
-    cout << "Grade siswa: " << nilai << endl;
+    cout << "Nilai siswa: " << nilai << endl;
     cout << "Keterangan: " << keterangan << endl;
 
     return 0;
 }
+
 
