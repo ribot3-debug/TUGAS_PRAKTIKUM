@@ -10,10 +10,10 @@ int main() {
     cout << "Masukkan diskon (%): ";
     cin >> diskon;
 
-    // Hitung harga setelah diskon
     hargaSetelahDiskon = hargaBarang - (hargaBarang * diskon / 100);
 
     cout << "Harga setelah diskon: " << hargaSetelahDiskon << endl;
 
     return 0;
 }
+
